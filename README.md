@@ -1,2 +1,2 @@
 # prove-to-be-the-richest
-The richest app
+Prove to be the richest with this app
